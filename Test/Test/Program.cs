@@ -13,7 +13,6 @@ namespace Test
             int a,b;
             a = 10;b = 3;
             Console.WriteLine(a + b);
-
             Console.ReadLine();
         }
     }
